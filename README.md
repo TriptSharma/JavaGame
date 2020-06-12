@@ -8,5 +8,6 @@ In the repository run the following commands.
 ```java GameDriver```
 
 # Images
-![Game Screensot #1](images/Java P1.png)
-![Game Screensot #2](images/Java P2.png)
+![Game Screensot #1](./images/Java%20P1.png)
+
+![Game Screensot #2](./images/Java%20P2.PNG)
